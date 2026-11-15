@@ -3,7 +3,7 @@ info:
   title: Fleet Management System API
   version: 1.0.0
   description: |
-    Fleet Management System, Part 2: geolocation, SMS notifications and an API gateway.
+    Fleet Management System
 
     **All requests go through the API Gateway.** Every `/api/*` route needs an `x-api-key` header
     (use **Authorize** above). Routes marked with a lock also need a JWT from `POST /api/users/login`.
